@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+    padding-left: 50%;
+}
+img{border-radius: 50%;}
+p{padding: 50px 10px 0px 10px
+    ;
+}
+
+.navbar{
+    background-color: black;
+
+    padding: 10px 0px 10px 0px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding-left: 100px;
+}
